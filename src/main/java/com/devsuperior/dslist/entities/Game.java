@@ -26,7 +26,7 @@ public class Game {
 	private Double score;
 	private String imgUrl;
 	
-	@Column(columnDefinition = "TEXT")
+	@Column(columnDefinition = "TEXT") // Define no banco de dados que a propriedade será TEXT e não VarChar (255)
 	private String shortDescription;
 	
 	@Column(columnDefinition = "TEXT")
