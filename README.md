@@ -8,10 +8,11 @@ no qual é possivel 'arrastar' um jogo qualquer alterando sua posição no banco
 Com desenvolvimento em Camadas, boas práticas com padrões de projetos, utilizando processo de homologação com perfis de projetos - test, dev e prod.
 
 ## Modelo Conceitual
-![UML DS List]()
+![UML DS List](https://github.com/GuilhermeMendesdeOliveira/JavaSpring_dslist/blob/main/assets/Projeto%20DSList%20UML.jpg)
 
 ## Deploy
 Deploy feito no Railway no modo -dev.
+![Deploy Railway](https://github.com/GuilhermeMendesdeOliveira/JavaSpring_dslist/blob/main/assets/Deploy%20Railway.JPG)
 >_https://railway.app/project/08a39d07-18d3-4304-92a2-c9abefad5a43_
 
 ## Tecnologias utilizadas
