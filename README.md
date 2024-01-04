@@ -18,6 +18,7 @@ Deploy feito no Railway no modo -dev.
 ## Tecnologias utilizadas
 - Java
 - Spring Boot
+- JPA e Hibernate
 - Postman
 - Docker
 - Maven
